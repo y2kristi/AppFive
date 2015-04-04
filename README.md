@@ -1,2 +1,2 @@
 # AppFive
-This app displays a users current GPS location.
+This app displays the x,y,z position of the device using the accelerometer.
